@@ -1,5 +1,9 @@
 Revision history for Perl extension App::OpenVZ::BCWatch.
 
+0.04_02  2023-01-15  <schubiger@cpan.org>
+
+ - Use explicit here-doc quoting.
+
 0.04_01  2023-01-14  <schubiger@cpan.org>
 
  - Move testing modules to test_requires.
