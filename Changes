@@ -1,5 +1,9 @@
 Revision history for Perl extension App::OpenVZ::BCWatch.
 
+0.05  2023-01-16  <schubiger@cpan.org>
+
+ - Merged development version to stable.
+
 0.04_02  2023-01-15  <schubiger@cpan.org>
 
  - Use explicit here-doc quoting.

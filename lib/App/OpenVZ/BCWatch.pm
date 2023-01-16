@@ -12,7 +12,7 @@ use Mail::Sendmail qw(sendmail);
 use Storable qw(store retrieve);
 use Sys::Hostname qw(hostname);
 
-our $VERSION = '0.04_02';
+our $VERSION = '0.05';
 
 sub new
 {
